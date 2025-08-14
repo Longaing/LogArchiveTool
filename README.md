@@ -1,8 +1,13 @@
+#Project Roadmap URL
+
+https://roadmap.sh/projects/log-archive-tool
+
+
 # Outil d'Archive de Journaux (Log Archiver)
 
 Un script Python pour archiver automatiquement les fichiers journaux dans une archive compressée avec horodatage.
 
-## 📝 Description
+## Description
 
 Cet outil permet de :
 - Archiver tous les fichiers d'un dossier de logs spécifié
@@ -11,7 +16,7 @@ Cet outil permet de :
 - Stocker les archives dans un sous-dossier dédié
 - Maintenir un système propre en organisant les anciens journaux
 
-## 📥 Installation
+## Installation
 
 1. **Prérequis** :
    - Python 3.6 ou supérieur
@@ -37,3 +42,6 @@ puis exécution
 ```
     python3 log_archiver.py test_logs
 ```
+
+
+
