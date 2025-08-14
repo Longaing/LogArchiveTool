@@ -42,6 +42,6 @@ puis exécution
 ```
     python3 log_archiver.py test_logs
 ```
-
+Vérifiez la création du dossier **archives** et de l'archive
 
 
